@@ -1,0 +1,33 @@
+/* index.html, bulgogi.html, pancakes.html, garlic-bread.html */
+
+.body-style {
+    color:rgb(110, 110, 110);
+    background-color: #64d8acda;
+}
+
+h1 {
+    font-weight:bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.list {
+    font-size: 25px;
+    text-align: center;
+}
+
+a {
+    font-size: x-small;
+}
+
+img {
+    height:auto;
+    width:600px;
+}
+
+ol {
+    color: black;
+}
